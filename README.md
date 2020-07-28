@@ -1,4 +1,6 @@
 ### Hi there 👋
+My Name's Sean 
+Check me out on DEV community, and my playlist on scrimba which is comming out soon.
 
 <!--
 **OreOlad/OreOlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
